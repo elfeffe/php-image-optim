@@ -1,9 +1,9 @@
 {
-    "name": "bensquire/php-image-optim",
+    "name": "elfeffe/php-image-optim",
     "type": "library",
     "description": "A library to aid in image optimisation",
     "keywords": ["image", "php", "optimisation", "png", "jpg", "gif"],
-    "homepage": "https://github.com/bensquire/php-image-optim",
+    "homepage": "https://github.com/elfeffe/php-image-optim",
     "license": "MIT",
     "authors": [
         {
@@ -13,8 +13,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/bensquire/php-image-optim/issues",
-        "wiki": "https://github.com/bensquire/php-image-optim/wiki"
+        "issues": "https://github.com/elfeffe/php-image-optim/issues",
+        "wiki": "https://github.com/elfeffe/php-image-optim/wiki"
     },
     "require": {
         "php": ">=5.3.0",
