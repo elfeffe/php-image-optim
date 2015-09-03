@@ -22,11 +22,10 @@ Example:
 This example demonstrates the optimisation of a PNG file, by chaining several commands together.
 
     <?php
-        use PHPImageOptim\Tools\Png\AdvPng;
-        use PHPImageOptim\Tools\Png\OptiPng;
-        use PHPImageOptim\Tools\Png\PngCrush;
-        use PHPImageOptim\Tools\Png\PngOut;
-        use PHPImageOptim\Tools\Png\PngQuant;
+        use PHPImageOptim\PHPImageOptim,
+            PHPImageOptim\Tools\Png\OptiPng,
+            PHPImageOptim\Tools\Png\PngCrush,
+            PHPImageOptim\Tools\Png\PngQuant;
 
         include('../../vendor/autoload.php');
 
