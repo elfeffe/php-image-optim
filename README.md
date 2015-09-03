@@ -1,6 +1,6 @@
 php-image-optim
 ===============
-[![Build Status](https://travis-ci.org/bensquire/php-image-optim.png)](https://travis-ci.org/bensquire/php-image-optim)
+This is a fork of bensquire library, where I plan to add some other tools.
 
 The purpose of this library is to help automate the optimisation of images via the command line in PHP,
 
@@ -10,7 +10,7 @@ The library is PSR-0 compliant and the simplest way to install it is via compose
 
     {
         "require": {
-            "bensquire/php-image-optim": "dev-master"
+            "elfeffe/php-image-optim": "dev-master"
         }
     }
 
