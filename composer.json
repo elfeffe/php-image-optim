@@ -5,6 +5,12 @@
     "keywords": ["image", "php", "optimisation", "png", "jpg", "gif"],
     "homepage": "https://github.com/elfeffe/php-image-optim",
     "license": "MIT",
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/elfeffe/php-image-optim"
+    }
+],
     "authors": [
         {
             "name": "Ben Squire",
